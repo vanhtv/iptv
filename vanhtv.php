@@ -424,10 +424,12 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/btv5/sd2/index.m3u8|Referer=http://sct
 https://vanhiptv.cf/vieon.vn.php?type=tivi&kenh=vie-giai-tri-hd
 #EXTINF:-1 tvg-id="vtvcab2hd" group-title="VTVCab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/VTVcab2-PhimViet_480x2701.jpg", VTVCab2 HD - ON Phim Việt
 #EXTVLCOPT:http-user-agent="vanhtv"
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab2/index.m3u8|Referer=http://sctvonline.vn
+#https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab2/index.m3u8|Referer=http://sctvonline.vn
+http://s3.nihontv.net:21585/vtvcab2/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVCab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/VTVcab13-TheThaoTV_480x2701.jpg", VTVCab3 HD - ON Sports HD
 #EXTVLCOPT:http-user-agent="vanhtv"
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab3/index.m3u8|Referer=http://sctvonline.vn
+#https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab3/index.m3u8|Referer=http://sctvonline.vn
+http://s4.nihontv.net:21585/vtvcab3/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab4hd" group-title="VTVCab" tvg-logo="https://rsstv.gviet.vn/sctv/159/493/1584928903629.png", VTVCab4 HD
 #EXTVLCOPT:http-user-agent="vanhtv"
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab4/sd2/index.m3u8|Referer=http://sctvonline.vn/
@@ -436,7 +438,8 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab4/sd2/index.m3u8|Referer=http://
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab5/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVCab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/onsports_480x2702.jpg", VTVCab6 HD - ON Sports+
 #EXTVLCOPT:http-user-agent="vanhtv"
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab6/index.m3u8|Referer=http://sctvonline.vn
+#https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab6/index.m3u8|Referer=http://sctvonline.vn 
+http://vthanh.me/vtvgo.m3u8?pass=vienthi&id=196
 #EXTINF:-1 tvg-id="vtvcab7hd" group-title="VTVCab" tvg-logo="https://rsstv.gviet.vn/sctv/157/984/1569832391120.png", VTVCab7 HD
 #EXTVLCOPT:http-user-agent="vanhtv"
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab7/index.m3u8|Referer=http://sctvonline.vn/
@@ -449,6 +452,9 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab9/index.m3u8|Referer=http://sctv
 #EXTINF:-1 tvg-id="vtvcab10hd" group-title="VTVCab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Kenh10_480x2701.jpg", VTVCab10 HD - ON Cine
 #EXTVLCOPT:http-user-agent="vanhtv"
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab10/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="vtvcab11hd" group-title="VTVCab" tvg-logo="https://static-stage.tv24.vn/channel/207/VTVCab11.png", VTVCab11 HD - VGSshop
+#EXTVLCOPT:http-user-agent="vanhtv"
+https://vtsstr7.tv24.vn/live/VTVcab11.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtvcab12hd" group-title="VTVCab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/tvshows/CBG2/STYLE_TV_HD_M.jpg", VTVCab12 HD - Style TV
 #EXTVLCOPT:http-user-agent="vanhtv"
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab12/index.m3u8|Referer=http://sctvonline.vn/
@@ -463,7 +469,8 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab15/index.m3u8|Referer=http://sct
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab16/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab17hd" group-title="VTVCab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/tvshows/CBG2/YEAH1_TV_M.jpg", VTVCab17 HD - Yeah1 TV
 #EXTVLCOPT:http-user-agent="vanhtv"
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab17/index.m3u8|Referer=http://sctvonline.vn/
+#https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab17/index.m3u8|Referer=http://sctvonline.vn/
+http://vthanh.me/vtvgo.m3u8?pass=vienthi&id=195
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVCab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/VTVcab18---The-Thao-Tin-Tuc-HD_480x2701.jpg", VTVCab18 HD - ON Sports News
 #EXTVLCOPT:http-user-agent="vanhtv"
 http://cunbabyshop.xyz/vtvcab18/mpegts
